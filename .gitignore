@@ -26,3 +26,5 @@ pnpm-debug.log*
 /.vscode
 
 .next/cache/
+// ignore next cache
+
